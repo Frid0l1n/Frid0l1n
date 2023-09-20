@@ -7,13 +7,6 @@
 - 🌐 Stay tuned for updates and exciting developments!
 Let's connect, collaborate, and code! 🤝✨
 
-<a href="https://github.com/Frid0l1n/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
-<a href="https://github.com/Frid0l1n/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frid0l1n&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frid0l1n&hide_progress=true)
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Frid0l1n/github-readme-stats)
