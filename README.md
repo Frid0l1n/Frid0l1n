@@ -8,7 +8,7 @@
 Let's connect, collaborate, and code! 🤝✨
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frid0l1n&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frid0l1n&hide_progress=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frid0l1n&hide_progress=False&theme=dark)
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Frid0l1n_icons=true&theme=dark)](https://github.com/Frid0l1n/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
