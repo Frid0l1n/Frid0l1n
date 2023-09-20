@@ -1,3 +1,4 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ### 👋 Hey there, I'm Fridolin! 👨‍💻
 
 - 🌐 Exploring the world of programming languages and frameworks.
