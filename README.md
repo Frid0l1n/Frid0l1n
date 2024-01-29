@@ -1,19 +1,36 @@
-<h2 align="center">
-  Hello
-</h2>
+<divb align="center">
+  <h1>Hello</h1>
+  <h3>Let's Connect and have a Chat!</h3>
 
-<h2 align="center">
-  Let's Connect and have a Chat!
-</h2>
+  <p>
+    <a href="https://www.linkedin.com/in/nicolas-widmer-769a6520a/">
+      <img
+        height="20"
+        src="https://img.shields.io/badge/Linkedin-000?logo=Linkedin&logoColor=fff"
+      />
+    </a>
+    <a href="https://discordapp.com/users/586969625724715038">
+      <img
+        height="20"
+        src="https://img.shields.io/badge/Discord-000?logo=discord&logoColor=fff"
+      />
+    </a>
+    <a href="https://twitter.com/TopfridolinG">
+      <img
+        height="20"
+        src="https://img.shields.io/badge/X%20(Twitter)-000?logo=x&logoColor=fff"
+      />
+    </a>
+    <a href="https://www.instagram.com/_nicoladl.widmer_/">
+      <img
+        height="20"
+        src="https://img.shields.io/badge/Instagram-000?logo=Instagram&logoColor=fff"
+      />
+    </a>
+  </p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/nicolas-widmer-769a6520a/">
-    <img height="25" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png">
-</p>
-
-<h2 align="center">
-  A little bit about me and my interests
-</h2>
+  <h3>A little bit about me and my interests</h3>
+</div>
 
 ```yaml
 name: Frid0l1n
@@ -31,5 +48,4 @@ fields_of_interests:
 currently_learning: ["Docker, Kubernetes and C"]
 2024_Goals: ["Master C", "Releasing a Mobile app"]
 hobbies: ["Cycling", "Coding", "Sport"]
-
 ```
