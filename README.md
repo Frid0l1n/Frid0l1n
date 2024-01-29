@@ -1,4 +1,4 @@
-<divb align="center">
+<div align="center">
   <h1>Hi there 👋</h1>
   <h3>Let's Connect and have a Chat!</h3>
 
