@@ -49,3 +49,12 @@ currently_learning: ["Docker, Kubernetes and C"]
 2024_Goals: ["Master C", "Releasing a Mobile app"]
 hobbies: ["Cycling", "Coding", "Sport"]
 ```
+
+<details>
+  <div align="center"s>
+    <p>
+      <img src="https://img.shields.io/github/followers/Frid0l1n"></img>
+      <img src="https://img.shields.io/github/stars/Frid0l1n"></img>
+    </p>
+  </div>
+</details>
