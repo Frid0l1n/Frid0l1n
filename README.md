@@ -35,7 +35,7 @@
 ```yaml
 name: Frid0l1n
 located_in: Switzerland
-current_job: strategic radio explorateur
+current_job: Computer Science Student at ETH
 
 fields_of_interests:
 [
@@ -45,14 +45,15 @@ fields_of_interests:
     "Game Development",
 ]
 
-currently_learning: ["Docker, Kubernetes and C"]
-2024_Goals: ["Master C", "Releasing a Mobile app"]
+currently_learning: ["Java, Arch Linux, Unix"]
+2024_Goals: ["Master Java, Writing Simple 3d Game"]
 hobbies: ["Cycling", "Coding", "Sport"]
 ```
 
 <details>
   <div align="center"s>
     <p>
+      :octocat:
       <img src="https://img.shields.io/github/followers/Frid0l1n"></img>
       <img src="https://img.shields.io/github/stars/Frid0l1n"></img>
     </p>
