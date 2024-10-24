@@ -51,11 +51,12 @@ hobbies: ["Cycling", "Coding", "Sport"]
 ```
 
 <details>
-  <div align="center"s>
+  <div align="center">
     <p>
       :octocat:
       <img src="https://img.shields.io/github/followers/Frid0l1n"></img>
       <img src="https://img.shields.io/github/stars/Frid0l1n"></img>
+      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frid0l1n&layout=compact)
     </p>
   </div>
 </details>
