@@ -56,7 +56,7 @@ hobbies: ["Cycling", "Coding", "Sport"]
       :octocat:
       <img src="https://img.shields.io/github/followers/Frid0l1n"></img>
       <img src="https://img.shields.io/github/stars/Frid0l1n"></img>
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frid0l1n&layout=compact)
+      [![wakatime](https://wakatime.com/badge/user/your-wakatime-id.svg)](https://wakatime.com/@your-wakatime-id)
     </p>
   </div>
 </details>
